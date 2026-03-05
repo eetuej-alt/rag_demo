@@ -1,0 +1,36 @@
+PLC-huolto (Programmable Logic Controller) tarkoittaa ohjelmoitavien logiikoiden, eli teollisuusautomaation "aivojen", ennakoivaa huoltoa, vianetsintää ja ylläpitoa. Sen tavoitteena on varmistaa koneiden ja prosessien luotettava toiminta, pidentää laitteiden elinikää ja minimoida kalliit, odottamattomat tuotantokatkokset. 
+Solution Control Systems
+Solution Control Systems
+ +1
+PLC-huolto voidaan jakaa karkeasti kahteen osaan: fyysiseen (laitteisto) huoltoon ja ohjelmistolliseen huoltoon.
+1. Fyysinen (Hardware) huolto
+Puhdistus: Pölyn, kosteuden ja roskien poistaminen PLC-kaapista, jotta vältetään ylikuumeneminen ja oikosulut.
+Liitäntöjen tarkistus: Kaapeleiden, liittimien ja I/O-moduulien kiinnitysten kiristys, sillä tärinä voi löystyttää ne.
+Jäähdytys: Tuulettimien ja suodattimien tarkistus/vaihto, jotta ilma kiertää ja logiikka pysyy viileänä.
+Akun vaihto: Keskusyksikön (CPU) paristojen/akkujen vaihtaminen, jotta ohjelma ei katoa sähkökatkon sattuessa.
+Virtalähteen testaus: Varmistetaan vakaa jännitteensyöttö. 
+pureautomation.com.my
+pureautomation.com.my
+ +5
+2. Ohjelmistollinen (Software) huolto
+Varmuuskopiointi (Backup): PLC-ohjelmien ja konfiguraatiotiedostojen säännöllinen varmuuskopiointi, jotta ne voidaan palauttaa laiterikon sattuessa.
+Firmware-päivitykset: Ohjelmiston päivitys valmistajan uusimpaan versioon, mikä parantaa tietoturvaa ja suorituskykyä.
+Dokumentointi: Muutosten dokumentointi ja "as-built" -piirustusten ajantasaisuuden varmistaminen. 
+hale-eng.co.uk
+hale-eng.co.uk
+ +2
+3. Vianetsintä ja diagnostiikka
+LED-valojen tarkistus: CPU:n ja I/O-moduulien vikavalojen tarkkailu.
+Diagnostiikkatyökalut: PLC-ohjelmointiohjelmiston (esim. TIA Portal, Studio 5000) käyttö vikakoodien lukemiseen ja ohjelmalogiikan analysointiin.
+Signaalien testaus: Tulo- ja lähtösignaalien (I/O) toiminnan varmistaminen (esim. pakottaminen eli "forcing"). 
+pureautomation.com.my
+pureautomation.com.my
+ +3
+Miksi PLC-huolto on tärkeää?
+Vähentää seisokkeja: Estää odottamattomat laiterikot.
+Pidentää elinikää: Pitää komponentit toimintakunnossa.
+Parantaa turvallisuutta: Varmistaa, että hätäseis-piirit ja turvalogiikat toimivat. 
+Allied Reliability
+Allied Reliability
+ +2
+PLC-huollon suorittavat usein teollisuuden kunnossapitoasentajat, automaatioinsinöörit tai laitevalmistajan edustajat.

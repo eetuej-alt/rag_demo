@@ -1,0 +1,40 @@
+Python on nykyään keskeinen ohjelmointikieli teollisuudessa, ja sen käyttö liittyy erityisesti automaatioon, data-analytiikkaan ja teolliseen internetiin (IoT). Sen suosio perustuu helppokäyttöisyyteen, laajaan kirjastovalikoimaan ja kykyyn yhdistää erilaisia järjestelmiä. 
+Esketchers
+Esketchers
+ +2
+Pythonia hyödynnetään teollisuudessa pääasiassa seuraavilla tavoilla:
+1. Teollinen automaatio ja robotiikka
+Prosessien ohjaus: Pythonia käytetään tuotantolinjojen ja robottikäsivarsien ohjaamisessa.
+Laitteistoliitännät: Pythonilla luodaan yhteyksiä teollisuuslaitteisiin, PLC-ohjaimiin (ohjelmoitava logiikka) ja antureihin, usein käyttäen kirjastoja kuten PySerial tai socket.
+Prototyypit: Raspberry Pi ja vastaavat alustat toimivat usein Python-pohjaisina kevyinä automaatiojärjestelminä. 
+Reddit
+Reddit
+ +1
+2. Data-analytiikka ja koneoppiminen
+Ennakoiva kunnossapito (Predictive Maintenance): Pythonin avulla analysoidaan koneista kerättyä anturidataa, jotta vikaantuminen voidaan ennustaa ennen sen tapahtumista.
+Laadunvalvonta: Reaaliaikainen datan monitorointi auttaa tunnistamaan tuotantovirheitä ja poikkeamia.
+Algoritmit: Koneoppimiskirjastot (kuten Scikit-learn, TensorFlow, PyTorch) mahdollistavat älykkäiden tekoälyratkaisujen kehittämisen. 
+Esketchers
+Esketchers
+ +3
+3. Teollinen internet (IIoT) ja järjestelmien integraatio
+Datan keruu: Python toimii "liimana" eri järjestelmien välillä, yhdistäen vanhoja (legacy) laitteita moderneihin pilvipalveluihin.
+Protokollat: Python tukee yleisiä teollisia tiedonsiirtoprotokollia, kuten MQTT:tä. 
+Reddit
+Reddit
+ +1
+4. Simulaatio ja tuotekehitys
+Mallinnus: Mekaanisessa suunnittelussa käytetään NumPy-, SciPy- ja Pandas-kirjastoja monimutkaisten järjestelmien simulointiin ja analysointiin.
+CAD-integraatio: Python integroituu CAD-ohjelmistoihin (esim. FreeCAD), mikä nopeuttaa tuotekehitysprosessia. 
+GeeksforGeeks
+GeeksforGeeks
+ +1
+5. Tuotannon optimointi ja toimitusketju
+Logistiikka: Pythonilla analysoidaan toimitusketjujen dataa pullonkaulojen tunnistamiseksi ja tehokkuuden parantamiseksi. 
+Esketchers
+Esketchers
+ +1
+Esimerkkejä hyödyistä:
+Kustannussäästöt: Vähentää seisokkiaikoja ennakoivan huollon ansiosta.
+Nopeus: Automaatio nopeuttaa rutiinitehtäviä.
+Laatu: Vähentää inhimillisiä virheitä ja parantaa lopputuotteen laatua. 

@@ -1,0 +1,13 @@
+OT-kenttäväylät ovat teollisuusautomaatiossa käytettyjä tiedonsiirtoverkkoja ja -protokollia (kuten Profibus, PROFINET, Modbus), jotka yhdistävät kenttälaitteet (anturit, toimilaitteet) ohjausjärjestelmiin (PLC/DCS). Ne korvaavat perinteisen, monimutkaisen pistekohtaisen johdotuksen, vähentäen kaapelointitarvetta ja mahdollistaen reaaliaikaisen tiedonsiirron, diagnostiikan sekä joustavamman järjestelmäarkkitehtuurin. 
+BCC Solutions Oy
+BCC Solutions Oy
+ +3
+Keskeiset OT-kenttäväylät ja ominaisuudet:
+Tekniikka: Käyttää sarjamuotoisia tai Ethernet-pohjaisia järjestelmiä (esim. PROFINET, EtherNet/IP, EtherCAT) laitteiden liittämiseen.
+Hyödyt: Pienemmät asennuskustannukset, parempi diagnostiikka, helpompi kunnossapito ja reaaliaikainen ohjaus.
+Yleiset standardit: PROFIBUS, PROFINET, AS-i, Modbus, CANopen, ja älykkäissä sähköverkoissa IEC 61850.
+Komponentit: Väyläkaapelit, liittimet, kytkimet (switches), hubit ja analysaattorit. 
+Hantekno Oy
+Hantekno Oy
+ +4
+Kenttäväylät ovat keskeinen osa modernia teollisuuden automaatiota ja integraatioratkaisuja.

@@ -1,0 +1,14 @@
+Siemens LOGO! on kompakti, älykäs logiikkamoduuli (pienoislogiikka), joka on suunniteltu yksinkertaisiin teollisuus- ja rakennusautomaatioprojekteihin. Se soveltuu erinomaisesti esimerkiksi valaistuksen, lämmityksen ja ilmanvaihdon ohjaukseen. LOGO! tarjoaa tilaa säästävän, nopean ja helpon ratkaisun, jossa on valmiita toimintolohkoja (kuten ajastimia) ja verkkoyhteydet (Ethernet). 
+OEM Finland
+OEM Finland
+ +3
+Keskeiset ominaisuudet:
+Käyttäjäystävällisyys: Ohjelmointi onnistuu helposti LOGO! Soft Comfort -ohjelmistolla raahaa-ja-pudota-tekniikalla, myös ilman syvällistä PLC-osaamista.
+Joustavuus: Perusyksiköt (esim. 8 digitaalituloa/-lähtöä) ovat laajennettavissa laajennusmoduuleilla.
+Verkkoliitettävyys: Integroitu Web-palvelin mahdollistaa etäohjauksen ja monitoroinnin (myös pilvipalvelun kautta).
+Sovellukset: Taloautomaatio (esim. KNX-väylä), pienet koneet ja laitteet.
+Versiot: Nykyinen LOGO! 8 -sarja parantaa aiempia versioita paremmilla toiminnoilla ja liitännöillä. 
+OEM Finland
+OEM Finland
+ +4
+Se on erittäin suosittu "älykäs rele" sen monipuolisuuden ja helpon käyttöönoton ansiosta.
